@@ -1,4 +1,4 @@
-# name-similarity
+# company-names-similarity-measure
 
 This project involves data handling and data cleaning from two sources of csv files.\
 The aim is to measure the similarity of strings using the Levenshtein distance.\
